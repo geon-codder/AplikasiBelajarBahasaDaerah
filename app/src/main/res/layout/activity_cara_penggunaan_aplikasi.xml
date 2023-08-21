@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".about.CaraPenggunaanAplikasiActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:layout_marginTop="60dp"
+            android:text="CARA PENGGUNAAN"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:text="APLIKASI"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="1. Tampilan saat ingin menginstall Aplikasi aksara lontara. Membuka file menggunakan google drive kemudian klik package installer atau instal paket kemudian klik install atau pasang untuk menginstall aplikasi pada perangkat."/>
+
+        <ImageView
+            android:layout_width="181dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi1_1" />
+
+        <ImageView
+            android:layout_width="198dp"
+            android:layout_height="79dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi1_2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="2.	Tampilan pada saat proses menginstall atau memasang aplikasi."/>
+
+        <ImageView
+            android:layout_width="181dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="3.	Jika aplikasi telah terpasang pada perangkat maka akan tampil seperti pada gambar dibawah ini. kemudian klik Open untuk membuka aplikasi."/>
+
+        <ImageView
+            android:layout_width="181dp"
+            android:layout_height="75dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi3" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="4.	Tampilan awal aplikasi"/>
+
+        <ImageView
+            android:layout_width="166dp"
+            android:layout_height="220dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi4" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="5.	Melakukan registrasi atau membuat akun sebelum melakukan login, agar dapat mengakses aplikasi"/>
+
+        <ImageView
+            android:layout_width="166dp"
+            android:layout_height="220dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi5" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="6.	Setelah itu, akan tampil menu untuk register atau menu untuk membuat akun, pada menu ini terdapat kolom untuk mengisi email dan password peserta didik, setelah itu klik tombol register untuk menyimpan akun. "/>
+
+        <ImageView
+            android:layout_width="166dp"
+            android:layout_height="220dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi6" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="7.	Setelah membuat akun, maka akan kembali ke menu tampilan awal atau login agar dapat mengakses aplikasi. Setelah itu, masukkan email dan password yang telah di buat. "/>
+
+        <ImageView
+            android:layout_width="166dp"
+            android:layout_height="220dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi7" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="8.	Setelah melakukan login, maka akan di arahkan ke halaman utama. Seperti pada gambar dibawah ini. "/>
+
+        <ImageView
+            android:layout_width="166dp"
+            android:layout_height="220dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi8" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="9.	Jika ingin mengakses materi pembelajaran, silahkan untuk mengklik tombol Home. "/>
+
+        <ImageView
+            android:layout_width="166dp"
+            android:layout_height="220dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi9" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="10.	Setelah itu, maka akan di arahkan ke halaman Home seperti pada gambar di bawah. Jika ingin mengetahui sejarah terbentuknya aksara lontara silahkan untuk mengklik SEJARAH BAHASA DAERAH MAKASSAR. Selain itu, jika ingin mengakses pembelajaran silahkan untuk mengklik KELAS 4 untuk menngakses materi pembelajaran."/>
+
+        <ImageView
+            android:layout_width="166dp"
+            android:layout_height="220dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi10" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="11.	Adapun tampilan pada halaman SEJARAH BAHASA DAERAH MAKASSAR dapat di lihat seperti pada gambar di berikut. "/>
+
+        <ImageView
+            android:layout_width="144dp"
+            android:layout_height="135dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi11_1" />
+
+        <ImageView
+            android:layout_width="144dp"
+            android:layout_height="135dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi11_2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="12.	Adapun tampilan pada halaman KELAS 4 dapat di lihat seperti pada gambar di berikut. "/>
+
+        <ImageView
+            android:layout_width="144dp"
+            android:layout_height="135dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi12_1" />
+
+        <ImageView
+            android:layout_width="144dp"
+            android:layout_height="135dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi12_2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="13.	Pada bagian kelas terdapat pilihan BAB dalam mengakses materi, contohnya jika ingin mengakses BAB 4 terlebih dahulu kita harus menyelesaikan puzzle seperti pada gambar dibawah ini."/>
+
+        <ImageView
+            android:layout_width="256dp"
+            android:layout_height="125dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi13_1" />
+
+        <ImageView
+            android:layout_width="159dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi13_2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="14.	Setelah menyelesaikan puzzle maka akan muncul tampilan seperti gambar dibawah, untuk melanjutkan materi peserta didik dapat mengklik menu LANJUTKAN, seperti pada gambar dibawah ini. "/>
+
+        <ImageView
+            android:layout_width="148dp"
+            android:layout_height="185dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi14" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="15.	Jika puzzle telah diselesaikan maka akan terdapat score sebagai apresiasi telah menyelesaikan tantangan sebelum mengakses materi. Selain itu, pada halaman ini akan tampil menu-menu dalam mengakses materi, seperti pada gambar dibawah ini. "/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi15_1" />
+
+        <ImageView
+            android:layout_width="170dp"
+            android:layout_height="179dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi15_2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="16.	Jika mengakses menu MENYIMAK maka akan tampil menu seperti dibawah ini."/>
+
+        <ImageView
+            android:layout_width="214dp"
+            android:layout_height="172dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi16_1" />
+
+        <ImageView
+            android:layout_width="176dp"
+            android:layout_height="215dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi16_2" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="17.	Pada materi terdapat kosa-kata yang teracak, sehingga peserta didik harus menyusun kosa kata tersebut. Setelah itu, terdapat latihan untuk menguji pengetahuan siswa terhadap materi yang telah di pelajari. Kemudian mengklik tombol selesai untuk kembali ke tampilan SUB BAB 4 untuk melanjutkan ke materi berikutnya yakni BERBICARA."/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/penggunaanaplikasi17_1" />
+
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="20dp"
+                android:src="@drawable/penggunaanaplikasi17_2" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="18.	Selain itu memilih kata yang sesuai pada kolom yang telah disediakan untuk menyempurnakan kalimat yang belum lengkap, jika kalimat salah maka tombol kata akan berwarna merah dan jika benar akan berwarna hijau seperti pada gambar dibawah."/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/penggunaanaplikasi18_1" />
+
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="20dp"
+                android:src="@drawable/penggunaanaplikasi18_2" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="19.	Selain itu, pada bagian Ebarakna, seperti pada gambar dibawah ini. Siswa memasangkan kata yang tepat, jika kata yang dipasangkan telah sesuai maka akan tampak garis penghubung seperti pada contoh dibawah ini."/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/penggunaanaplikasi19_1" />
+
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="20dp"
+                android:src="@drawable/penggunaanaplikasi19_2" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="20.	Kemudian pada bagian KOSAKATA, seperti pada gambar dibawah ini. Siswa memasangkan kata yang tepat, jika kata yang dipasangkan telah sesuai maka jawaban yang tepat akan berwarna hijau saat melakukan cek jawaban. "/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/penggunaanaplikasi20_1" />
+
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="20dp"
+                android:src="@drawable/penggunaanaplikasi20_2" />
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="21.	Jika ingin ke menu utama klik panah pada bagian pojok kiri atas, seperti pada gambar dibawah ini."/>
+
+        <ImageView
+            android:layout_width="209dp"
+            android:layout_height="231dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi21" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="22.	Pada tampilan profil maka akan tampak seperti pada gambar dibawah ini. Kemudian siswa mengisi biodata dan profil masing-masing seperti pada gambar dibawah ini."/>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="20dp"
+            >
+            <TableRow>
+                <ImageView
+                    android:layout_width="149dp"
+                    android:layout_height="270dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/penggunaanaplikasi22_1" />
+
+                <ImageView
+                    android:layout_width="155dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/penggunaanaplikasi22_2" />
+            </TableRow>
+
+            <TableRow
+                android:layout_marginTop="10dp">
+                <ImageView
+                    android:layout_width="149dp"
+                    android:layout_height="270dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/penggunaanaplikasi22_3" />
+
+                <ImageView
+                    android:layout_width="155dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/penggunaanaplikasi22_4" />
+            </TableRow>
+
+            <TableRow
+                android:layout_marginTop="10dp">
+                <ImageView
+                    android:layout_width="149dp"
+                    android:layout_height="270dp"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/penggunaanaplikasi22_5" />
+
+                <ImageView
+                    android:layout_width="155dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="10dp"
+                    android:layout_weight="1"
+                    android:src="@drawable/penggunaanaplikasi22_6" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="23.	Jika telah selesai maka akan tampil biodata serta profil masing-masing siswa."/>
+
+        <ImageView
+            android:layout_width="169dp"
+            android:layout_height="268dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi23" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="24. Setelah itu, pada bagian about terdapat cara penggunaan aplikasi serta biodata developer seperti pada gambar dibawah ini. "/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/penggunaanaplikasi24_1" />
+
+            <ImageView
+                android:layout_width="137dp"
+                android:layout_height="243dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="20dp"
+                android:src="@drawable/penggunaanaplikasi24_2" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginTop="30dp"
+            android:text="25. Setelah itu, tekan logout untuk keluar dari aplikasi. "/>
+
+        <ImageView
+            android:layout_width="169dp"
+            android:layout_height="268dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/penggunaanaplikasi25" />
+
+        <Button
+            android:id="@+id/btnPenggunaanAplikasiSelesai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="40dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/text_white"
+            android:text="Selesai"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+
+</androidx.core.widget.NestedScrollView>

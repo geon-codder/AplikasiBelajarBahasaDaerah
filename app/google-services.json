@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1086546292947",
+    "firebase_url": "https://bahasadaerah-33571-default-rtdb.firebaseio.com",
+    "project_id": "bahasadaerah-33571",
+    "storage_bucket": "bahasadaerah-33571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086546292947:android:fa134451647259255fa426",
+        "android_client_info": {
+          "package_name": "com.example.aplbhsdaerah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086546292947-oc1b18o7gh869c2n1c70eo7spvofk9fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExVAJppmNYMaz4USpfkmu3Ymo480ps3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086546292947-oc1b18o7gh869c2n1c70eo7spvofk9fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

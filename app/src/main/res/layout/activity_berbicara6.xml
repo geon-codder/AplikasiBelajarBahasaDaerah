@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".home.sub.bab6.Berbicara6Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="kiksukurGi ppideln krea alhu tal"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:text="Kikasukkurangi Pappidallekna Karaeng Allahu Taala"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:text="Syukurilah Rahmat Allah Subuhanu Wa Taala"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Akbicara ‘Berbicara’"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginStart="20dp"
+            android:text="Tujuan Pembelajaran"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="Melalui pembelajaran ini, diharapkan kalian dapat :"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="1. Menjelaskan pengertian teka-teki."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="2. Bermain teka-teki dengan menggunakan bahasa Makassar."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="3. Menilai permainan teka-teki dengan jujur."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Akboto-botoeng ‘Bermain Teka-Teki’"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="Teka-teki adalah sejenis sastra lisan yang berbentuk puisi. Manfaatnya adalah untuk mendidik
+anak berpikir secara kritis. Pada masa lampau, sejenis sastra ini sangat digemari, baik anak-anak,
+muda-mudi, maupun orang tua."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Ebarakna :"/>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            >
+            <TableRow>
+                <TextView
+                    android:text="1."
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp" />
+
+                <TextView
+                    android:text="Kelompok A :"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Apaya ri batang kalea punna niciniki pilak bellai?"
+                    android:textColor="@color/black"
+                    android:layout_weight="1"
+                    android:textSize="17sp" />
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:text="  "
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok B	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="5dp"
+                    android:text="Bangkenga."
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:text="  "
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok A	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="_______"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginStart="5dp"/>
+            </TableRow>
+<!--            Salai-->
+
+            <TableRow>
+                <TextView
+                    android:text="  "
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok B	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Apayaji padeng?"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginStart="5dp"/>
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:text="  "
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok A	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Mengakumoko? Lekok tolia"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginStart="5dp"/>
+            </TableRow>
+        </TableLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan1a"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="40dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="Samai"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan1b"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="5dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="Salai"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan1c"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginStart="40dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="masai"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan1d"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginStart="5dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="Betulmi"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            >
+            <TableRow>
+                <TextView
+                    android:text="2."
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok B	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="5dp"
+                    android:text="Kanrejawa apaya punna nikokkoki ______ tongki?"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:text="  "
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok A	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Kanrejawa kaluaranga."
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginStart="5dp"/>
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:text="  "
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok B	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Io, annabai"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginStart="5dp"/>
+            </TableRow>
+        </TableLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan2a"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="40dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="nakokkok"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan2b"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="5dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="nakokkoko"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan2c"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginStart="40dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="nakokkoki"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan2d"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginStart="5dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="nakokkoka"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            >
+
+            <TableRow>
+                <TextView
+                    android:text="3."
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok A	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Jukuk apaya tanipallui na tiknok?"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginStart="5dp"/>
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:text="  "
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok B	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Jukuk tunua iareka jukuk sanggaraka."
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginStart="5dp"/>
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:text="  "
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+                <TextView
+                    android:text="Kelompok A	:"
+                    android:textSize="17sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="5dp"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Io, ______"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginStart="5dp"/>
+            </TableRow>
+<!--            cocoki-->
+        </TableLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan3a"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="40dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="kah"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan3b"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="5dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="ji"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan3c"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginStart="40dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="salai"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btnBerbicara6pilgan3d"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginStart="5dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="cocoki"
+                    android:textAllCaps="false"
+                    android:textSize="17sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Pappakabiasa ‘Latihan’"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="1. Appilanngeriki acara “pancarita” ri Radio Gamasi FM iareka akkutaknangki ri tau jaia
+    naisseng boto-botoang nampa nuukirik ri bokbok pappakabiasanu!"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="300dp"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanBerbicara6no1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 1"
+                android:inputType="text" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="2. Sisambe-sambeki mange ri dallekang akboto-botoang, inai kaminang pore nisarei hadia ri
+    gurunna."/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanBerbicara6no2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 2"
+                android:inputType="text" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnBerbicara6Selesai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="40dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/text_white"
+            android:text="Selesai"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

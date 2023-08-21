@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".home.sub.bab5.Membaca5Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:layout_marginTop="30dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="aemetki ri klb usG"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:text="Ammentengki ri Kalambusanga"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:text="Tanamkanlah nilai-nilai Kejujuran "/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Ammaca ‘Membaca’"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Tujuan Pembelajaran"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="Melalui pembelajaran ini, diharapkan kalian dapat :"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="1. Membacakan bacaan yang disediakan dengan lafal dan intonasi yang tepat"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="2. Menjawab pertanyaan tentang isi bacaan yang dibaca"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="3. Menulis lontarak kata-kata yang ada dalam bacaan"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Membaca Nyaring"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="Lompoi batenu ambacai bacang niaki i rawanganna anne sollanna nabajik pakbatattasakna!"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="asiGsiGr b ul"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      riaolo pun siGr b ulGi asuluk bl Gesmi taua asiGasiGr bul. tau
+toa ans toGi prn tau toa. anank msi aper aes toGi
+pkerkern. kmymi n ia acokocokoa, n ia asokosoko jG, n ia
+agsi, siag ri mreaGny poel."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      mt umtun ajo pkerkernG soln n nipkbias asmt uruk. aknGi
+toejG. lbusuk, amGkuai kpoeran blia. jri. p un nebtki taua
+etaki lroai. km toji pun aemtki etaki tpo k km emmjitu adn
+n ikny pkerkern n ia niebt nia to aemt."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      p un amrimo akerkern anank sitgtglmi limmi mp aeklo :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="b ul sumrko mea"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="nsiaoro blk"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="n km todo"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="siGrn pmaiku"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="b itoea pel mmub"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="kukn wriwria"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="kut uj u mt"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="kuper pNelaor"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      elbkijo msi nikiaomi ri tau toan amoeter ri bln. bt uai ri bln,
+nbisa imi limn siag bekn np na i ri bln atiro apksnGi pma in."/>
+
+<!--        LATIN-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="Assingak-singarak Bulang "/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      Riolo punna singarak bulangi assulukang ballak ngasemmi taua assingak-singarak bulang.
+tau toaya aknassa tongi paranna tau toa. anak-anaka massing apparek aseng tongi pakkarekkarenang, kammayami niak accokko-cokkoang, niak assongkok-songkok jangang, niak akgasing,
+siagang ri maraengannaya pole. "/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      matu-matunna anjo pakkarek-karenanga sollanna na nipakabiasa assamaturuka,
+angkanangi tojenga, lambusuka, ammangakui kaporeanna balia. jari, punna nabetaki taua teaki
+larroi. kamma tonji punna ammetaki teaki tampo ka kamma memanjintu adakna nikanaya
+pakkarek-karenang niak nibeta niak tong ammeta. "/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      Punna ammarimo akkarek-karena anak-anaka sitakgak-takgalak limami nampa akkelong,
+angkana :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="15dp"
+            android:text="Bulang sumarakko mae "/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="15dp"
+            android:text="Na nasiorok ballakku"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Na kamma todong"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Singarakna pakmaikku"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Bintoeng paleng mammuba"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Kukana waria-waria"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Kutuju mata"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Kuparek pannyaleori"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:text="      Lekbakinjo massing nikiokmi ri tau toana ammoterek ri ballakna. Battui ri ballakna,
+nabissaimi limanna siagang bangkenna nampa naik ri ballakna attinro ampakasannangi
+pakmaikna. "/>
+
+<!--        ARTI-->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:text="Bermain Terang Bulan"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="      pada zaman dahulu, jika malam terang bulan tiba, maka seluruh isi rumah keluar dari
+rumah. orang tua berkumpul sesama orang tua. Anak-anak memilih permainan, ada yang bermain
+sembunyi-sembunyi, ada yang bermain kurung-kurung ayam, bermain gasing, dan sebagainya."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:text="      manfaat dari permainan tradisional tersebut adalah untuk memupuk kerja sama,
+menegakkan kebenaran, menanamkan kejujuran, dan mengakui kehebatan teman. jika dikalah
+tidak boleh marah atau dendam. demikian pula, jika menang tidak boleh merasa angkuh atau
+terlalu membanggakan diri. dalam sebuah permainan pasti ada yang menang dan ada yang kalah"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:text="      Apabila permaianan sudah usai semua anak berkumpul lalu berpegangan tangan sambil
+menyanyikan lagu :"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="15dp"
+            android:text="Bersinarlah wahai bulan purnama"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="15dp"
+            android:text="Menerangi rumahku"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Supaya hati kami"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Seterang bulan purnama"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Bintang-bintang yang bermunculan "/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Kukira bintang kejora"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Kutatap mata"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="40dp"
+            android:text="Kujadikan penghibur hati"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:text="      Sesudah mereka bubar, lalu dipanggillah oleh orang tuanya pulang ke rumah. Sesampai di
+rumah mereka mencuci tangan dan kaki lalu naik (masuk) ke rumah untuk istirahat dan
+menenangkan hati mereka."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Kosakata"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal"
+                >
+
+                <TextView
+                    android:layout_width="116dp"
+                    android:layout_height="wrap_content"
+                    android:text="Lontarak"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="10dp"/>
+                <TextView
+                    android:text="Latin"
+                    android:layout_width="116dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="10dp"/>
+                <TextView
+                    android:text="Arti"
+                    android:layout_width="116dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="10dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/tva1"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="siGr b ul"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+                    <TextView
+                        android:id="@+id/tva2"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="b ul"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva3"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="ans"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva4"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="apns"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva5"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="kerkern"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva6"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="akerkern"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva7"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="pkerkern"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva8"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="cko"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva9"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="acko"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva10"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="aNko"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva11"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="n icko"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+
+                    <TextView
+                        android:id="@+id/tva12"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="acokocokoa"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+                    <TextView
+                        android:id="@+id/tva13"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="soko"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+                    <TextView
+                        android:id="@+id/tva14"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="sokok"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+                    <TextView
+                        android:id="@+id/tva15"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="gs"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+                    <TextView
+                        android:id="@+id/tva16"
+                        android:layout_width="116dp"
+                        android:layout_height="80dp"
+                        android:fontFamily="@font/fontaksarabugis"
+                        android:text="agsi"
+                        android:textColor="@color/black"
+                        android:textSize="17sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Singarak bulang"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Bulang"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Aknassa"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Appaknassa"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Karek-karenang"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="113dp"
+                        android:layout_height="80dp"
+                        android:text="Akkarek-karena"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Pakkarek-karenang"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Cakko (cokko)"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Accakko"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Annyakko"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Nicakko"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Accokko-cokkoang"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Songkok"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Songkokang"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Gasing"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+                    <TextView
+                        android:layout_width="110dp"
+                        android:layout_height="80dp"
+                        android:text="Akgasing"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+                </LinearLayout>
+
+                <com.bosphere.fadingedgelayout.FadingEdgeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    app:fel_edge="bottom"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginEnd="5dp"
+                    app:fel_size_bottom="90dp">
+
+                    <ScrollView
+                        android:id="@+id/scroll_kosamembaca5"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <com.jmedeisis.draglinearlayout.DragLinearLayout
+                            android:id="@+id/drag_linear_kosamembaca5"
+                            android:layout_width="match_parent"
+                            android:layout_height="80dp"
+                            android:orientation="vertical"
+                            android:paddingBottom="30dp"
+                            android:showDividers="middle|beginning|end" />
+
+                    </ScrollView>
+                </com.bosphere.fadingedgelayout.FadingEdgeLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/btnCekJawabanKosaMembaca5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="40dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/text_white"
+            android:text="CEK JAWABAN"
+            android:textSize="20sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Pappakabiasa"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="1. Bacai bacang niaka i rate siagang bajik!"/>
+
+        <com.google.android.material.textfield.TextInputLayout   style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMembaca5no1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 1"
+                android:inputType="text" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="2. Puali pakkutaknang niaka i rawanganna anne situruka bonena bacanga!"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="   ‘jawablah pertanyaan di bawah ini berdasarkan isi bacaan!’"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="   a. Apa pokokna anjo bacang lekbaka nubaca?"/>
+        <com.google.android.material.textfield.TextInputLayout   style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMembaca5no2a"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 2a"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="   b. Sakbuki tallu pakkarek-karenang biasaya nagaukang anak-anak punna assinga-singarak bulangi!"/>
+        <com.google.android.material.textfield.TextInputLayout   style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMembaca5no2b"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 2b"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="   c. Apa matu-matunna anjo pakkarek-karenanga?"/>
+        <com.google.android.material.textfield.TextInputLayout   style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMembaca5no2c"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 2c"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="   d. Anggapai taua punna ammeta iareka nibeta i lalang ri pakkarek-karenanga?"/>
+        <com.google.android.material.textfield.TextInputLayout   style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMembaca5no2d"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 2d"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="   e. Kelongangi siagang bajik kelong niaka i lalang ri bacanga!"/>
+        <com.google.android.material.textfield.TextInputLayout   style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMembaca5no2e"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 2e"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="3. Ammileiki sekre pakkarek-karenang nampa akkarek-karenaki siagang aganta!"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="   ‘Tulislah dalam aksara lontarak kemudian carilah arti kata-kata di bawah ini!’"/>
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <TableRow>
+                <TextView
+                    android:text="Lontarak"
+                    android:textSize="20sp"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"/>
+
+                <TextView
+                    android:text="Latin"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="60dp"/>
+
+                <TextView
+                    android:text="Arti"
+                    android:textColor="@color/black"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginEnd="40dp"/>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="17sp"
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:layout_marginStart="20dp" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    android:text="Assamaturuk"
+                    android:textColor="@color/black"
+                    android:textSize="17sp"
+                    android:layout_marginStart="40dp"/>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textSize="17sp"
+                        android:textColor="@color/black"
+                        android:textStyle="bold"
+                        android:layout_marginStart="20dp"/>
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:padding="5dp"
+                    android:text="Akkana tojeng"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:text="Lambusuk pakmaik"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:text="Ammanngakui"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:text="Kaporeanna"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:text="Tena silarroang"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:layout_marginStart="40dp"
+                    android:layout_height="wrap_content"
+                    android:text="Aklarro-larro"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="20dp"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin8"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:text="Nikalarroi"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti8"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin9"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:text="Sikalarroi"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti9"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin10"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:text="Ammeta"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti10"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin11"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:text="Nibeta"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti11"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+            <TableRow>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3latin12"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+                <TextView
+                    android:layout_width="44dp"
+                    android:layout_marginStart="40dp"
+                    android:text="Ammari"
+                    android:padding="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <EditText
+                        android:id="@+id/inputJawabanMembaca5no3Arti12"
+                        android:layout_marginStart="20dp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/black"
+                        android:textSize="17sp"
+                        android:textStyle="bold" />
+                </com.google.android.material.textfield.TextInputLayout>
+            </TableRow>
+
+        </TableLayout>
+
+        <Button
+            android:id="@+id/btnMembaca5Selesai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="40dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/text_white"
+            android:text="Selesai"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

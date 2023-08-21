@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".home.sub.bab4.Membaca4Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:layout_marginTop="60dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="kil iliaGi pp isaky"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:text="“Kililiangi Pappasingkaya”"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/text_color"
+            android:textAlignment="center"
+            android:text="(Hindarkan diri dari perbuatan terlarang)"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Ammaca ‘Membaca’"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Tujuan Pembelajaran"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="Melalui pembelajaran ini, diharapkan kalian dapat :"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="1. Membaca dengan nyaring bacaan yang disediakan"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="2. Menuliskan kata ulang yang terdapat dalam bacaan"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="3. Menyusun kalimat dengan menggunakan kata ulang"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Membaca Nyaring"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginStart="20dp"
+            android:text="Ebarakna :"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginStart="20dp"
+            android:textAlignment="center"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="kedr ebr"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="          Ri ballakku niak sipasang kadera beru. Kakjalaki naballiangi ammakku. matu-matunna kaderaya nipammempoi. jari, tena nakkulle nionjok-onjok ka rakmasaki sallang iareka tettereki panrak. Punna naiki andikku anngonjok-ngonjoki kaderaya kupisangkai ka panraki sallang kaderaya na susasedeng tau toata."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="10dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="          lanri kammannami anjo naparallu nikatutui barrang-baranga sollanna nasallo nipake. "/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"
+            android:text="Kadera Beru"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp"
+            android:text="          Ri ballakku niak sipasang kadera beru. Kakjalaki naballiangi ammakku. Matu-matunna kaderaya nipammempoi. Jari, tena nakkulle nionjok-onjok ka rakmasaki sallang iareka tettereki panrak. Punna naiki andikku anngonjok-ngonjoki kaderaya kupisangkai ka panraki sallang kaderaya na susasedeng tau toata."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="10dp"
+            android:text="          Lanri kammannami anjo naparallu nikatutui barrang-baranga sollanna nasallo nipake. "/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"
+            android:textAlignment="center"
+            android:text="Kursi Baru"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="10dp"
+            android:text="          Di rumah saya ada sepasang kursi baru. Kursi itu sangat mahal harganya. Manfaat kursi itu adalah sebagai tempat duduk. Jadi, tidak boleh diinjak-injak karena cepat kotor atau cepat rusak. Saya melarang adik saya jika menginjak-injak kursi karena kalau kursi itu rusak orang tua pasti ingin lagi membeli kursi yang baru."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="10dp"
+            android:text="          Oleh karena itu, kita harus menjaga barang-barang kita supaya tetap awet diapakai."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Kata Nipakkulling ‘Kata Ulang'"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginBottom="10dp"
+            android:text="Kata ulang adalah kata yang sudah mengalami proses pengulangan. "/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="20dp"
+            android:text="Ebarakna :"/>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <View
+                android:id="@+id/ivl1a1"
+                android:layout_width="80dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="32dp"
+                android:background="@color/black"
+                android:visibility="visible"
+                app:layout_constraintEnd_toStartOf="@+id/tva1Membaca4"
+                app:layout_constraintHorizontal_bias="0.206"
+                app:layout_constraintStart_toEndOf="@+id/tvl1Membaca4"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <View
+                android:id="@+id/ivl2a2"
+                android:layout_width="80dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@color/black"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.241"
+                app:layout_constraintStart_toEndOf="@+id/tvl2Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl1a1" />
+
+            <View
+                android:id="@+id/ivl3a3"
+                android:layout_width="120dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="68dp"
+                android:background="@color/black"
+                android:rotation="24"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl2Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl2a2" />
+
+            <View
+                android:id="@+id/ivl4a4"
+                android:layout_width="120dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="68dp"
+                android:background="@color/black"
+                android:rotation="-13"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl2Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl2a2" />
+
+            <View
+                android:id="@+id/ivl5a5"
+                android:layout_width="150dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="120dp"
+                android:background="@color/black"
+                android:rotation="29"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl2Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl4a4" />
+
+            <View
+                android:id="@+id/ivl6a6"
+                android:layout_width="130dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="120dp"
+                android:background="@color/black"
+                android:rotation="9"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl2Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl4a4" />
+
+            <View
+                android:id="@+id/ivl7a7"
+                android:layout_width="150dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="120dp"
+                android:background="@color/black"
+                android:rotation="-17"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl2Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl4a4" />
+
+            <View
+                android:id="@+id/ivl8a8"
+                android:layout_width="130dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="110dp"
+                android:background="@color/black"
+                android:rotation="21"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl2Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl7a7" />
+
+            <View
+                android:id="@+id/ivl9a9"
+                android:layout_width="120dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@color/black"
+                android:rotation="21"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl2Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl8a8" />
+
+            <View
+                android:id="@+id/ivl10a10"
+                android:layout_width="150dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="20dp"
+                android:background="@color/black"
+                android:rotation="-17"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl2Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl8a8" />
+
+            <View
+                android:id="@+id/ivl11a11"
+                android:layout_width="120dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="155dp"
+                android:background="@color/black"
+                android:rotation="18"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva12Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl12Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl10a10" />
+
+            <View
+                android:id="@+id/ivl12a12"
+                android:layout_width="120dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="105dp"
+                android:background="@color/black"
+                android:rotation="18"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva12Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl12Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl10a10" />
+
+            <View
+                android:id="@+id/ivl13a13"
+                android:layout_width="170dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="195dp"
+                android:background="@color/black"
+                android:rotation="15"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva12Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl12Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl10a10" />
+
+            <View
+                android:id="@+id/ivl14a14"
+                android:layout_width="190dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="40dp"
+                android:background="@color/black"
+                android:rotation="-28"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva12Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl12Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl12a12" />
+
+            <View
+                android:id="@+id/ivl15a15"
+                android:layout_width="120dp"
+                android:layout_height="6dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="70dp"
+                android:background="@color/black"
+                android:rotation="6"
+                android:visibility="invisible"
+                app:layout_constraintEnd_toStartOf="@+id/tva12Membaca4"
+                app:layout_constraintHorizontal_bias="0.448"
+                app:layout_constraintStart_toEndOf="@+id/tvl12Membaca4"
+                app:layout_constraintTop_toBottomOf="@+id/ivl13a13" />
+
+            <TextView
+                android:id="@+id/tvl1Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Ballak-ballak"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+            <!--Ballak-->
+            <TextView
+                android:id="@+id/tvl2Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Ballak-ballak"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toStartOf="@+id/tva2Membaca4"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl1Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl3Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Akballak-ballak"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl2Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl4Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Pallu"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl3Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl5Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Pallu-pallu"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl4Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl6Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Appallu-pallu"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl5Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl7Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Akkarena"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl6Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl8Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Akkarek-karena"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl7Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl9Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Karek-karenang"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl8Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl10Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Kelong"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl9Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl11Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Akkelong-kelong"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl10Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl12Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Kelong-kelong"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl11Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl13Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Cinik"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl12Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl14Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Accinik"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl13Membaca4" />
+
+            <TextView
+                android:id="@+id/tvl15Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="24dp"
+                android:text="Accinik-cinik"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tvl14Membaca4" />
+
+            <TextView
+                android:id="@+id/tva1Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="rumah-rumah"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <!--        rumah-->
+
+            <TextView
+                android:id="@+id/tva2Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="rumah-rumah"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva1Membaca4" />
+
+            <TextView
+                android:id="@+id/tva4Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="tungku"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva2Membaca4" />
+
+            <TextView
+                android:id="@+id/tva3Membaca4"
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="bermain rumah-rumah"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva4Membaca4" />
+
+            <TextView
+                android:id="@+id/tva7Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="bermain"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva3Membaca4" />
+
+            <TextView
+                android:id="@+id/tva6Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="masak-masak"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva7Membaca4" />
+
+            <TextView
+                android:id="@+id/tva5Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="tungku-tungku"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva6Membaca4" />
+
+            <TextView
+                android:id="@+id/tva10Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="lagu, syair"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva5Membaca4" />
+
+            <TextView
+                android:id="@+id/tva9Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="bermain-main"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva10Membaca4" />
+
+            <TextView
+                android:id="@+id/tva8Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="main-mainan"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva9Membaca4" />
+
+            <TextView
+                android:id="@+id/tva14Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="melihat"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva8Membaca4" />
+
+            <TextView
+                android:id="@+id/tva12Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="bernyanyi-nyanyi"
+                android:textColor="@color/black"
+                android:textSize="15sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva14Membaca4" />
+
+            <TextView
+                android:id="@+id/tva11Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="nyanian"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva12Membaca4" />
+
+            <TextView
+                android:id="@+id/tva13Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="lihat"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva11Membaca4" />
+
+            <TextView
+                android:id="@+id/tva15Membaca4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:layout_marginEnd="28dp"
+                android:text="menonton"
+                android:textColor="@color/black"
+                android:textSize="17sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tva13Membaca4" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="20dp"
+            android:text="Lapangkana"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="20dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="netnaia agku ablbl."/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="20dp"
+            android:text="Natenaiak ______ akballak-ballak."/>
+<!--        agangku -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="20dp"
+            android:text="‘Saya diajak teman saya bermain rumah-rumah.’"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnMembaca4pilgan1a"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="40dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="siagang"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btnMembaca4pilgan1b"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginStart="5dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="agangnu"
+                    android:textSize="17sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnMembaca4pilgan1c"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginStart="40dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="agangku"
+                    android:textSize="17sp" />
+
+                <Button
+                    android:id="@+id/btnMembaca4pilgan1d"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginStart="5dp"
+                    android:backgroundTint="@color/button_color"
+                    android:textColor="@color/text_white"
+                    android:text="ammakku"
+                    android:textSize="17sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Latihan 3"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Pappakabiasa"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="15dp"
+            android:text="1. Lompoi bateta ambacai bacang niaka i rate sollanna nabajik pakbattasakna!"/>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMembaca4no1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 1"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="2. Ukiriki antamaya kana nipakkuling anjo niaka i lalang ri bacanga!"/>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMembaca4no2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 2"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="3. Pareki lampangkana kana nipakkuling niaka i rawannganna anne!"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:layout_marginTop="25dp"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/tva1"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="ablbl"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+                <TextView
+                    android:id="@+id/tva2"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="aekloeklo"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/tva3"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="akerkern"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/tva4"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="abelbel"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/tva5"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="siaodaod"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/tva6"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="ablublu "
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/tva7"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="atirot iro"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/tva8"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="aserser"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/tva9"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="amcmc"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/tva10"
+                    android:layout_width="116dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/fontaksarabugis"
+                    android:text="aplupl"
+                    android:textColor="@color/black"
+                    android:textSize="17sp" />
+            </LinearLayout>
+
+            <com.bosphere.fadingedgelayout.FadingEdgeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:fel_edge="bottom"
+                android:layout_marginTop="25dp"
+                app:fel_size_bottom="90dp">
+
+                <ScrollView
+                    android:id="@+id/scroll_view2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.jmedeisis.draglinearlayout.DragLinearLayout
+                        android:id="@+id/drag_linear_layout2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:paddingBottom="30dp"
+                        android:showDividers="middle|beginning|end" />
+                </ScrollView>
+            </com.bosphere.fadingedgelayout.FadingEdgeLayout>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnCekJawabanMembaca4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="40dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/text_white"
+            android:text="CEK JAWABAN"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnMembaca4Selesai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="40dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/text_white"
+            android:text="Selesai"
+            android:textSize="20sp" />
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

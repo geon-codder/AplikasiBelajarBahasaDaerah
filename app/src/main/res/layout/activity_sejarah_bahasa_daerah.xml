@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context=".home.SejarahBahasaDaerahActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:textAlignment="center"
+            android:layout_marginTop="60dp"
+            android:text="Sejarah Aksara Lontara"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_gravity="center_vertical|end"
+            android:layout_marginTop="20dp"
+            android:text="Aksara Lontara diciptakan oleh Daeng Pamatte yang merupakan seorang syahbandar dan menjabat sebagai Tumailalang (Menteri urusan istana luar dan dalam negeri) di kerajaan Gowa pada masa pemerintahan Raja Gowa ke IX Daeng Matanre Karaeng Manguntungi (1510 - 1546). Alasan aksara ini dibuat yakni pada saat itu pemerintah Kerajaan Gowa ingin menuliskan apa yang mereka ucapkan."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Selain itu agar mereka dapat menuliskan kejadian pada masa itu, sebagai warisan bagi keturunannya sebagai bekal bagi pengembangan ilmu pengetahuan. Aksara Lontara pada masa ini disebut sebagai aksara Lontara Toa atau Jangang-Jangang (burung)."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Dalam perkembangannya aksara Lontara kemudian mengalami perubahan. Huruf aksara Lontara berubah saat agama Islam masuk sebagai agama resmi di Kerajaan Gowa."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Bentuk huruf aksara Lontara berubah mengikuti simbol angka dan huruf Arab. Seperti huruf Arab nomor 2 diberi makna huruf 'ka', angka Arab nomor 2 dan titik dibawah diberi makna 'Ga', angka tujuh dengan titik di atas diberi makna 'Nga'."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Aksara Lontara yang telah mengalami perubahan ini disebut Lontara Bilang-Bilang atau jika diartikan dalam bahasa Indonesia berarti Lontara Hitungan."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Lontara Bilang-Bilang ini sendiri diperkirakan muncul pada abad ke-16 yakni pada masa pemerintahan Raja Gowa XIV Sultan Alauddin (1593-1639)."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Selanjutnya aksara Lontara mengalami penyederhanaan dengan menggunakan bentuk huruf dari belah ketupat."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Kendati demikian disebutkan dalam jurnal tersebut belum diketahui secara jelas siapakah yang menemukan penyederhanaan aksara Lontara ini. Namun, berdasarkan jumlah aksara yang semula 18 huruf dan kini menjadi 19 huruf, dapat dinyatakan bahwa penyederhanaan itu dilakukan setelah masuknya Islam."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Huruf tambahan akibat pengaruh Islam dari bahasa arab tersebut yakni huruf 'Ha'. Sementara, ada pendapat yang menyebutkan bahwa si pencipta aksara Lontara Daeng Pamatte sendiri yang kemudian menyederhanakan dan melengkapi aksara lontara itu."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:textStyle="bold"
+            android:text="Asal Usul Penamaan Aksara Lontara"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Mengutip karya ilmiah Guru Besar Filologi Universitas Hasanuddin (Unhas), Prof Nurhayati Rahman berjudul 'Sejarah dan Dinamika Perkembangan Huruf Lotaraq di Sulawesi Selatan' disebutkan bahwa kata Lontara berasal dari bahasa Bugis yang terdiri dari dua kata, yaitu raung yang berarti daun, dan taq yang berarti lontar. Jadi raung taq berarti daun lontar."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Disebut demikian, karena pada awalnya tulisan tersebut dituliskan di atas daun lontar. Daun lontar ini bentuknya berukuran kira-kira 1 cm lebarnya, sedangkan panjangnya bergantung dari panjang cerita yang dituliskan di dalamnya."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Dahulu, tiap-tiap daun lontar disambung dengan memakai benang, lalu digulung pada jepitan sebuah kayu, yang bentuknya mirip pita kaset."/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:textStyle="bold"
+            android:text="Huruf-Huruf Aksara Lontara"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:text="Melansir indonesia.go.id, aksara Lontara tak memiliki tanda baca virama (pemati vokal) sehingga aksara konsonan mati tidak dituliskan. Hal ini dapat menimbulkan kerancuan bagi orang yang tak terbiasa dan tidak mengerti akan kata yang dituliskan."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Misalnya pada kata 'Mandar' hanya ditulis mdr, dan tulisan sr dapat dibaca sebagai 'sarang', 'sara', atau 'sara' tergantung pada konteks kalimat."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Arah tulisan aksara lontara adalah kiri ke kanan yang ditulis tanpa spasi dengan tanda baca yang minimal."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Aksara Lontara adalah tulisan abugida yang terdiri dari 23 aksara dasar, yaitu KA-GA-NGA-NGKA-PA-BA-MA-MPA-TA-DA-NA-NRA-CA-JA-NYA-NCA-YA-RA-LA-WA-SA-A-HA. Dan memiliki 6 huruf vokal seperti /ɔ/, /i/, /u/, /e/, /ə/, dan /o/ serta memiliki sistem penulisan angka."/>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/aksaralontarapic"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Mengutip dari Kementerian Pekerjaan Umum dan Perumahan Rakyat dalam artikel berjudul 'Aksara Lontara' dan Rahasia Sukses Replikasi PLPBK Kabupaten Gowa', dijelaskan bahwa huruf Lontara memiliki bentuk yang unik. Berikut penjelasannya:"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="1. Huruf Lontara Tidak Mengenal Garis Lengkung atau Bengkok"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:text="Huruf pada aksara Lontara tidak mengenal garis melengkung atau garis bengkok. Hanya ada garis lurus ke atas dan garis lurus ke bawah. Kemudian pada pertemuan kedua garis lurus tersebut terdapat patahan."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="2. Ditulis dengan Variable Tegak Lurus"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:text="Sementara dari segi teknis penulisan, huruf pada aksara Lontara memiliki variasi tebal halus. Yakni ke atas harus tebal dan ke bawah harus halus."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="3. Lontara Tidak Mengenal Huruf Mati"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:text="Alasan tidak mengenal huruf mati karena orang-orang terdahulu percaya segala ilmu yang dipelajari adalah berkah dan tidak akan pernah mati."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            android:textStyle="bold"
+            android:text="Cara Membaca Aksara Lontara"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:text="Tidak banyak yang memahami huruf aksara Lontara termasuk cara membacanya. Terdapat lima diakritik dalam aksara Lontara, berikut adalah cara membaca aksara Lontara :"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="10dp"
+            android:text="Jika tanda titik berada di sebelah kiri atas huruf, maka dilafalkan dengan huruf vokal i."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:text="Jika tanda titik berada di sebelah kanan bawah, maka dilafalkan dengan huruf vokal u."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:text="Jika tanda yang menyerupai huruf L terbalik dan condong ke dalam, maka dilafalkan dengan huruf vokal e contohnya sepatu, sedih."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:text="Jika tanda yang menyerupai huruf L dan condong keluar, maka dilafalkan dengan huruf vokal o."/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:textColor="@color/black"
+            android:text="Jika tanda yang menyerupai huruf L dan berada pada sebelah kiri atas, maka dilafalkan dengan huruf vocal e (pepet) contohnya ember, enak."/>
+
+
+        <Button
+            android:id="@+id/btnSejarahSelesai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="40dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/text_white"
+            android:text="Selesai"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

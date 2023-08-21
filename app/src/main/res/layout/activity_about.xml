@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".about.AboutActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="@color/text_color"
+        android:textAlignment="center"
+        android:layout_marginTop="120dp"
+        android:text="ABOUT"/>
+
+    <Button
+        android:id="@+id/btnAboutToPanduan"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:backgroundTint="@color/button_color"
+        android:textColor="@color/text_white"
+        android:text="CARA PENGGUNAAN APLIKASI"
+        android:textSize="20sp"
+        />
+
+    <Button
+        android:id="@+id/btnAboutToBioDev"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="@color/button_color"
+        android:textColor="@color/text_white"
+        android:text="BIODATA DEVELOPER"
+        android:textSize="20sp"
+        />
+
+</LinearLayout>

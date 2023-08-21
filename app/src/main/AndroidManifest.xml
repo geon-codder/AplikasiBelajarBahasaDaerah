@@ -1,20 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.geco.aplikasibahasadaerah">
+    package="com.example.AplBhsDaerah">
 
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/logoapp"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/ic_launcher_background"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AplikasiBahasaDaerah"
+        android:theme="@style/Theme.PerpusSMP"
         tools:targetApi="31">
+
+        <activity
+            android:name=".ProfilActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CompleteBioActivity"
+            android:exported="false" />
+        <activity
+            android:name=".newfeature.PuzzleBab4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.ResetPasswordActivity"
+            android:exported="false" />
+        <activity
+            android:name=".about.AboutActivity"
+            android:exported="false" />
+        <activity
+            android:name=".game.GameActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab6.Menyimak6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab6.Menulis6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab6.Membaca6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab6.Berbicara6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab5.Menyimak5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab5.Menulis5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab5.Membaca5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab5.Berbicara5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab4.Menulis4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab4.Membaca4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab4.Berbicara4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.bab4.Menyimak4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.SubBab6Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.SubBab5Activity"
+            android:exported="false" />
+        <activity
+            android:name=".about.CaraPenggunaanAplikasiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".about.BiodataDeveloperActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.sub.SubBab4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.Kelas4Activity"
+            android:exported="false" />
+        <activity
+            android:name=".home.SejarahBahasaDaerahActivity"
+            android:exported="false" />
+        <activity
+            android:name=".home.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.RegisterActivity"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".auth.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

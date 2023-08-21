@@ -3,11 +3,63 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/akbar/AndroidStudioProjects/AplikasiBahasaDaerah/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.155" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.155" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/drawable/ic_celebration.xml" value="0.1995" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.231" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/drawable/ic_sharp_horizontal_rule_24.xml" value="0.17" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/drawable/kls7color.xml" value="0.155" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/drawable/kls8color.xml" value="0.155" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/drawable/kls9color.xml" value="0.155" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_about.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_berbicara4.xml" value="0.22362869198312235" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_berbicara5.xml" value="0.15121255349500715" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_berbicara6.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_biodata_developer.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_buku_kelas7.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_buku_lainnya.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_cara_penggunaan_aplikasi.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_complete_bio.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_drag.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_game.xml" value="0.33" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_home.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_kelas4.xml" value="0.2" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_kelas7.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_kelas8.xml" value="0.2234375" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_kelas9.xml" value="0.2234375" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_latihan_soal4.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_membaca4.xml" value="0.1853763440860215" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_membaca5.xml" value="0.10830140485312899" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_membaca6.xml" value="0.18844444444444444" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_menulis4.xml" value="0.21178821178821178" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_menulis5.xml" value="0.22734584450402145" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_menulis6.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_menyimak4.xml" value="0.18829183049366535" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_menyimak5.xml" value="0.25" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_menyimak6.xml" value="0.11459459459459459" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_panduan.xml" value="0.3412509897070467" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_pdf_view.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_profil.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_register.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_reset_password.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_sejarah_bahasa_daerah.xml" value="0.1834703591518823" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_sub_bab4.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_sub_bab5.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/activity_sub_bab6.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/layout_progress.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/my_book_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/row_barissoal.xml" value="0.5" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/row_barissoalbigger.xml" value="0.5" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/row_istilah.xml" value="0.2234375" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/layout/row_kalimat_soal.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.155" />
+        <entry key="..\:/Users/akbar/AndroidStudioProjects/PerpusSMP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.155" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

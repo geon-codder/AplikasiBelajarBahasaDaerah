@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".home.sub.bab6.Menulis6Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/text_color"
+        android:textAlignment="center"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/fontaksarabugis"
+        android:text="kiksukurGi ppideln krea alhu tal"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textColor="@color/text_color"
+        android:textAlignment="center"
+        android:text="Kikasukkurangi Pappidallekna Karaeng Allahu Taala"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:textColor="@color/text_color"
+        android:textAlignment="center"
+        android:text="Syukurilah Rahmat Allah Subuhanu Wa Taala"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:text="Anngukirik ‘Menulis’"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="Melalui pembelajaran ini, diharapkan kalian dapat: "/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="1. Menentukan syarat-syarat mengarang"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="2. Mengarang sesuai dengan judul yang dipilih"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="3. Membacakan karangan dengan lafal dan intonasi yang tepat"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="4. Menerjemahkan karangan ke dalam bahasa Indonesia"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="5. Menilai karangan dengan jujur dan objektif"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Anngarang ‘Mengarang’"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="      Antu anngukirika sekrei jama-jamang mabajik. Tenaja nasukkarak punna tuli erokjaki
+aklatihang. Sikamma jama-jamanga lomo-lomoi ri katte punna erokja nipappilajari."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="      I katte pasikolaya parallui nipakabiasa kalenta anngukirik. Antu anngukirika iareka
+apparek karangang sekrei jama-jamang mabajik. Punna carakdekki anngarang puisi iareka carita
+akkulleki ampareki pattallassang. Akjari tongki pole tau malabirik."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="Ada beberapa hal yang harus diperhatikan sebelum mengarang, antara lain:"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="  1. Menentukan tema karangan"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="  2. Mengumpulkan bahan"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="  3. Membuat kerangka karangan"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="  4. Mengembangkan karangan"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="  5. Menulis karangan secara utuh"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Ebarakna :"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:layout_marginStart="20dp"
+            android:text="Gurungku"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="20dp"
+            android:text="      Antu gurua sekrei jama-jamang malakbirik. Tena tau akkulle aljari parasideng, polisi,
+dottorok, guru, jassa, haking, siagang ri maraengannaya pole punna tena guru."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="      Gurua sannak lompona jasana ri katte. Lanri gurua kinngasseng ammaca, anngukirik,
+akrekeng, siagang ri maraengannaya pole. Gurua parallui nipakalakbirik na niukrangi
+pammajikinna ri katte."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="      Gurua tena nalekbak napisakringi posoa. Manna bosi, manna rimbuk, manna nabambang
+alloa battuji ri sikolaya anngajaraki anak-anakna. Sikamma gurua naminasai asengi anak-anakna
+akjari tau carakdek."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:text="      Kuminasai barang akkulleji kupakmatu-matu panngissengang naajarakang gurungku.
+Dasi-dasi barang anjo panngissenganna gurungku akjariji amalak tattappu ri ia."/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_gravity="center"
+            android:textStyle="bold"
+            android:fontFamily="@font/fontaksarabugis"
+            android:layout_marginStart="20dp"
+            android:text="guruk"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="20dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      atu gurua esera i jmjm mlbiri. etn tau akuel ajri prsied.
+polisi. js. hki. siag ri mreaGny poel pun etn guru."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      gurua sn lopon jsn ri ket. lri gurua kiGes amc. aGukiri.
+aerek. siag ri mreaGny poel. gurua prlua i nipklbiri n n iaurGi
+pmjikin ri ket."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      gurua etn nelb npisriGi posoa. mn bosi. mn ribu. mn mbb aloa
+btuj i ri sikoly aGjrki anann. sikm gurua nminsai aesGi
+anann ajri ta u cred."/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:fontFamily="@font/fontaksarabugis"
+            android:text="      kuminsa i br akuelj i kupmtumtu pGiesG najrG guruku. dsidsi br ajo
+pGiesGn guruku ajri aml ttpu ri a ia."/>
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="20dp"
+            android:text="Latihan 4"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:layout_marginStart="20dp"
+            android:text="Pappakabiasa"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="1. Ukiriki sarak-sarakna anngaranga!"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_marginStart="20dp">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMenulis6no1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 1"
+                android:inputType="text" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="2. Ammileiki pokok karangang nampa anngarangki manna bodo-bodoja!"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMenulis6no2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 2"
+                android:inputType="text" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="3. Bacai karanganta ri dallekanna aganta!"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMenulis6no3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 3"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="4. Pabasa Indonesia anjo karanganta!"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMenulis6no4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 4"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="5dp"
+            android:text="5. Massing sarei nilei karanganna aganta! "/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_marginStart="20dp">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/inputJawabanMenulis6no5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Jawaban no 5"
+                android:inputType="text" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:id="@+id/btnMenulis6Selesai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="60dp"
+            android:layout_marginBottom="40dp"
+            android:backgroundTint="@color/button_color"
+            android:textColor="@color/text_white"
+            android:text="Selesai"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
